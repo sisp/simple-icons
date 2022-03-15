@@ -6563,6 +6563,11 @@
             "source": "https://myob-identikit.frontify.com/d/JK2D4WFOdAwV/for-developers"
         },
         {
+            "title": "mypy",
+            "hex": "2A6DB2",
+            "source": "https://github.com/python/mypy/"
+        },
+        {
             "title": "Myspace",
             "hex": "030303",
             "source": "https://myspace.com/"
