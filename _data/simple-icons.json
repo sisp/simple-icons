@@ -1702,6 +1702,11 @@
             "source": "https://bandcamp.com/buttons"
         },
         {
+            "title": "Bandit",
+            "hex": "F7CB18",
+            "source": "https://github.com/PyCQA/bandit/blob/9a2884efe130cad0897586e58dcb33bdbb6fbd81/logo/logo.svg"
+        },
+        {
             "title": "BandLab",
             "hex": "F12C18",
             "source": "https://www.bandlab.com"
